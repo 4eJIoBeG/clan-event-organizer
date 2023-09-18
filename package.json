@@ -1,0 +1,15 @@
+{
+  "name": "clan-event-organizer",
+  "version": "1.0.0",
+  "description": "Bot for discord server which help organize Epics\\siege events for clan.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
